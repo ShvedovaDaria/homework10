@@ -1,3 +1,5 @@
+package homework10;
+
 import java.util.Scanner;
 
 public class Calculator {
